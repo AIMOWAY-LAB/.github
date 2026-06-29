@@ -1,6 +1,6 @@
 # AIMOWAY
 
-AIMOWAY provides OpenAI-compatible AI API access for developers, AI agent users, AI coding workflows, students, and engineering teams.
+AIMOWAY provides OpenAI-compatible AI API access for developers, AI agent users, AI coding agent workflows, students, learners, and engineering teams.
 
 Use a familiar `/v1` API endpoint with your AIMOWAY API key, base URL, and supported model names.
 
@@ -10,7 +10,7 @@ Base URL: https://aimoway.com/v1
 
 ## Who AIMOWAY is for
 
-AIMOWAY is designed for people and teams building with AI APIs, AI agents, coding agents, and OpenAI-compatible tooling.
+AIMOWAY is designed for people, teams, and organizations building with AI APIs, AI agents, coding agents, LLM-assisted software development workflows, and OpenAI-compatible tooling.
 
 Typical users include:
 
@@ -37,7 +37,7 @@ Typical users include:
 * Clear model pricing information
 * Developer documentation
 * Public examples for `curl`, Python, and Node.js
-* Agent workflow setup notes for compatible tools
+* Setup notes for compatible AI agent and coding agent workflows
 
 AIMOWAY provides access to selected AI models through authorized service sources and upstream infrastructure. AIMOWAY is not a scraping layer or an unofficial shortcut to AI model services.
 
@@ -66,9 +66,9 @@ Repository:
 
 https://github.com/AIMOWAY/aimoway-api-examples
 
-## Agent and coding workflow notes
+## AI agent and coding agent workflows
 
-AIMOWAY can be used with AI coding tools and agent workflows when the tool supports a custom OpenAI-compatible API base URL.
+AIMOWAY can be used with AI agent tools, AI coding tools, and LLM-powered development workflows when the tool supports a custom OpenAI-compatible API base URL.
 
 In general, configure:
 
