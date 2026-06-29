@@ -43,15 +43,16 @@ AIMOWAY provides access to selected AI models through authorized service sources
 
 ## Start here
 
-| Resource                | Link                                            |
-| ----------------------- | ----------------------------------------------- |
-| Website                 | https://aimoway.com                             |
-| Quick Start             | https://aimoway.com/docs/quickstart             |
-| Developer Docs          | https://aimoway.com/docs                        |
-| API Reference           | https://aimoway.com/docs/api-reference          |
-| Pricing                 | https://aimoway.com/pricing                     |
-| FAQ                     | https://aimoway.com/faq                         |
-| API Examples Repository | https://github.com/AIMOWAY/aimoway-api-examples |
+| Resource                  | Link                                            |
+|---------------------------|-------------------------------------------------|
+| Website                   | https://aimoway.com                             |
+| Quick Start               | https://aimoway.com/docs/quickstart             |
+| AI Agents & Coding Agents | https://aimoway.com/docs/ai-agents              |
+| Developer Docs            | https://aimoway.com/docs                        |
+| API Reference             | https://aimoway.com/docs/api-reference          |
+| Pricing                   | https://aimoway.com/pricing                     |
+| FAQ                       | https://aimoway.com/faq                         |
+| API Examples Repository   | https://github.com/AIMOWAY/aimoway-api-examples |
 
 ## API examples
 
